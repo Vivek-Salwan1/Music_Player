@@ -26,7 +26,7 @@ let index = 0;
 const songDatabase = [
     {
         songSrc: './music/music1.mp3',
-        title: 'alone',
+        title: 'alone the singer',
         artist: 'alon walker',
         imgSrc: './img/music1.jpg'
     },
